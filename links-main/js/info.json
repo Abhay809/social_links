@@ -1,0 +1,47 @@
+{
+  "background": {
+    "video": "abh.jpg"
+  },
+  "userdetails": {
+    "userimage": "images/abh.jpg",
+    "username": "abhay809",
+    "userbio": "A coder,designer!!!"
+  },
+  "links": {
+    "Instagram": {
+      "href": "https://www.instagram.com/abhay_m809/",
+      "src": "images/icons/instagram.gif"
+    },
+    "Github": {
+      "href": "https://github.com/Abhay809",
+      "src": "images/icons/github.gif"
+    },
+    "Linkedin": {
+      "href": "https://www.linkedin.com/in/abhay-kumar-mittal-9989b5255/",
+      "src": "images/icons/linkedin.gif"
+    },
+    "Twitter": {
+      "href": "https://twitter.com/AbhaykumarMitt1",
+      "src": "images/icons/twitter.gif"
+    },
+    "SnapChat": {
+      "src": "images/icons/snap.gif"
+    },
+    "YouTube":{
+      "href": "",
+      "src": "images/icons/youtube.gif"
+    },
+    "Buy Me A Coffee": {
+      "href": "",
+      "src": "images/icons/coff.gif"
+    },
+    "Contact Me": {
+      "href": "mailto:abhay809y@gmail.com",
+      "src": "images/icons/mail.gif"
+    }
+  },
+  "projects":{
+    "Links":"https://github.com/Abhay809",
+    "Medhub":""
+  }
+}
